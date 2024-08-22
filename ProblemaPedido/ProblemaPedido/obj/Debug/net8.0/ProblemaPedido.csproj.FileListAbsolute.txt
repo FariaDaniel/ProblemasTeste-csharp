@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\bin\Debug\net8.0\ProblemaPedido.exe
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\bin\Debug\net8.0\ProblemaPedido.deps.json
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\bin\Debug\net8.0\ProblemaPedido.runtimeconfig.json
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\bin\Debug\net8.0\ProblemaPedido.dll
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\bin\Debug\net8.0\ProblemaPedido.pdb
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\obj\Debug\net8.0\ProblemaPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\obj\Debug\net8.0\ProblemaPedido.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\obj\Debug\net8.0\ProblemaPedido.AssemblyInfo.cs
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\obj\Debug\net8.0\ProblemaPedido.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\obj\Debug\net8.0\ProblemaPedido.dll
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\obj\Debug\net8.0\refint\ProblemaPedido.dll
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\obj\Debug\net8.0\ProblemaPedido.pdb
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\obj\Debug\net8.0\ProblemaPedido.genruntimeconfig.cache
+C:\Users\admin\source\repos\ProblemaPedido\ProblemaPedido\obj\Debug\net8.0\ref\ProblemaPedido.dll

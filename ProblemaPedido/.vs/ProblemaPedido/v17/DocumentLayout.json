@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B95FFD0-3EAE-4E64-B132-018AF904C8F0}|ProblemaPedido\\ProblemaPedido.csproj|c:\\users\\admin\\source\\repos\\problemapedido\\problemapedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B95FFD0-3EAE-4E64-B132-018AF904C8F0}|ProblemaPedido\\ProblemaPedido.csproj|solutionrelative:problemapedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B95FFD0-3EAE-4E64-B132-018AF904C8F0}|ProblemaPedido\\ProblemaPedido.csproj|c:\\users\\admin\\source\\repos\\problemapedido\\problemapedido\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B95FFD0-3EAE-4E64-B132-018AF904C8F0}|ProblemaPedido\\ProblemaPedido.csproj|solutionrelative:problemapedido\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B95FFD0-3EAE-4E64-B132-018AF904C8F0}|ProblemaPedido\\ProblemaPedido.csproj|c:\\users\\admin\\source\\repos\\problemapedido\\problemapedido\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B95FFD0-3EAE-4E64-B132-018AF904C8F0}|ProblemaPedido\\ProblemaPedido.csproj|solutionrelative:problemapedido\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B95FFD0-3EAE-4E64-B132-018AF904C8F0}|ProblemaPedido\\ProblemaPedido.csproj|c:\\users\\admin\\source\\repos\\problemapedido\\problemapedido\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B95FFD0-3EAE-4E64-B132-018AF904C8F0}|ProblemaPedido\\ProblemaPedido.csproj|solutionrelative:problemapedido\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B95FFD0-3EAE-4E64-B132-018AF904C8F0}|ProblemaPedido\\ProblemaPedido.csproj|c:\\users\\admin\\source\\repos\\problemapedido\\problemapedido\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B95FFD0-3EAE-4E64-B132-018AF904C8F0}|ProblemaPedido\\ProblemaPedido.csproj|solutionrelative:problemapedido\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B95FFD0-3EAE-4E64-B132-018AF904C8F0}|ProblemaPedido\\ProblemaPedido.csproj|c:\\users\\admin\\source\\repos\\problemapedido\\problemapedido\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B95FFD0-3EAE-4E64-B132-018AF904C8F0}|ProblemaPedido\\ProblemaPedido.csproj|solutionrelative:problemapedido\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\ProblemaPedido\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ProblemaPedido\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\ProblemaPedido\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "ProblemaPedido\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:13:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\ProblemaPedido\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProblemaPedido\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\ProblemaPedido\\Entities\\Product.cs",
+              "RelativeToolTip": "ProblemaPedido\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:10:04.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\ProblemaPedido\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ProblemaPedido\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\ProblemaPedido\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "ProblemaPedido\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:06:47.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\ProblemaPedido\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "ProblemaPedido\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\ProblemaPedido\\Entities\\Client.cs",
+              "RelativeToolTip": "ProblemaPedido\\Entities\\Client.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:06:05.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\ProblemaPedido\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ProblemaPedido\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\ProblemaPedido\\Entities\\Order.cs",
+              "RelativeToolTip": "ProblemaPedido\\Entities\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:05:54.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\ProblemaPedido\\Program.cs",
+              "RelativeDocumentMoniker": "ProblemaPedido\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\ProblemaPedido\\ProblemaPedido\\Program.cs",
+              "RelativeToolTip": "ProblemaPedido\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T17:04:29.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
